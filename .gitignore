@@ -1,0 +1,12 @@
+# Local credentials and original data
+.env
+.env.*
+*.csv
+*.xlsx
+*.pdf
+*.pptx
+*.docx
+*.log
+*.dump
+*.backup
+*.zip
